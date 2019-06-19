@@ -15,7 +15,8 @@
   width: 100%; }
   .profile .profile_pic {
     height: 150px;
-    border-radius: 100px; }
+    border-radius: 100px;
+    border: black 1px; }
   .profile .profile_name {
     display: flex;
     flex-direction: row;
